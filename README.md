@@ -6,7 +6,7 @@ Jupyter notebooks experimenting with image recognition using Tensorflow.
 
 Run the notebooks in this repository live on MyBinder — just click the button (it might take a little while to load).
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/image-recognition/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gustavolsj/image-recognition/master)
 
 Notebooks include:
 

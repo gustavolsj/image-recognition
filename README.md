@@ -1,14 +1,14 @@
-# Machine Learning para la identificación del proceso fotográfico
+# 🤖 Machine Learning para la identificación del proceso fotográfico 🎞️
 
-## INTRODUCCIÓN
+## 📝Descripción
 
 Cuando en un archivo histórico nos acercarnos a una fotografía desconocida, nos surgenvarias preguntas: ¿Qué representa la imagen? y ¿de qué año es?, ¿Quién es el autor o autora?, ¿Cuál es su tamaño, material de soporte, color y técnica con la que fue creada? esta información nos permite contextualizar la fotografía y plantear indagaciones más amplias y complejas. En este proyecto se reentrenó a la red neuronal convolucional Mobilenet para identificar el proceso fotográfico de las primera imagenes creadas en el siglo XIX, conocidas como imagenes de cámara.
 
-Para concer más de este proyecto puedes leer este [artículo](https://www.academia.edu/92501941/Identificación_de_procesos_fotográficos_mediante_técnicas_de_aprendizaje_de_máquina)
+🔗 Para concer más de este proyecto puedes leer este [artículo](https://www.academia.edu/92501941/Identificación_de_procesos_fotográficos_mediante_técnicas_de_aprendizaje_de_máquina)
 
 ![Tipologías fotograficas](imagenes/tipologias.jpg)
 
-Las redes neuronales convolucionales (RNC) son dispositivos para el análisis de información visual que han tenido un desarrollo muy acelerado en los últimos diez años. La convolución es la operación en la que el dígito que corresponden a cada pixel de la imagen se multiplica por un filtro o kernel, el resultado es una versión de la imagen en la que se destacan algunas de sus características y se simplifican otras. Este proceso se repite en las diferentes capas de la red y progresivamente se obteniene un mapa de características, equivalente a una versión reducida y destilada de la imagen, este mapa se introduce a la última capa de la red, conocida como clasificador y de esta manerase identifica su contenido.
+⚙️ Las redes neuronales convolucionales (RNC) son dispositivos para el análisis de información visual que han tenido un desarrollo muy acelerado en los últimos diez años. La convolución es la operación en la que el dígito que corresponden a cada pixel de la imagen se multiplica por un filtro o kernel, el resultado es una versión de la imagen en la que se destacan algunas de sus características y se simplifican otras. Este proceso se repite en las diferentes capas de la red y progresivamente se obteniene un mapa de características, equivalente a una versión reducida y destilada de la imagen, este mapa se introduce a la última capa de la red, conocida como clasificador y de esta manerase identifica su contenido.
 
 ![convolución](imagenes/convolucion.jpg)
 

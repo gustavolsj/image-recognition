@@ -1,7 +1,7 @@
 # 🤖 Machine Learning para la identificación del proceso fotográfico
 
 ### ACTUALIZACIÓN Abril 2023
-Construí una aplicación que puedes probar [aqui](https://rexsimiloluwa.medium.com/building-a-plant-disease-classification-web-app-in-keras-and-tensorflow-js-d435829213fa)
+Construí una aplicación que puedes probar [aqui](https://gustavolsj.github.io/clasificador_img/)
 
 ## 📝Descripción
 

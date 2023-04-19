@@ -1,5 +1,8 @@
 # 🤖 Machine Learning para la identificación del proceso fotográfico
 
+### ACTUALIZACIÓN Abril 2023
+Construí una aplicación que puedes probar [aqui](https://rexsimiloluwa.medium.com/building-a-plant-disease-classification-web-app-in-keras-and-tensorflow-js-d435829213fa)
+
 ## 📝Descripción
 
 Cuando en un archivo histórico nos acercarnos a una fotografía desconocida, nos surgenvarias preguntas: ¿Qué representa la imagen? y ¿de qué año es?, ¿Quién es el autor o autora?, ¿Cuál es su tamaño, material de soporte, color y técnica con la que fue creada? esta información nos permite contextualizar la fotografía y plantear indagaciones más amplias y complejas. En este proyecto se reentrenó a la red neuronal convolucional Mobilenet para identificar el proceso fotográfico de las primera imagenes creadas en el siglo XIX, conocidas como imagenes de cámara.

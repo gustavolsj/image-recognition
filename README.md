@@ -1,7 +1,7 @@
 # 🤖 Machine Learning para la identificación del proceso fotográfico
 
 ### ACTUALIZACIÓN Abril 2023
-Construí una aplicación que puedes probar [aqui](https://gustavolsj.github.io/clasificador_img/)
+Construí una aplicación similar, pero que sirve para identificar la tipología fotográfica, la puedes probar [aqui](https://gustavolsj.github.io/clasificador_img/)
 
 ## 📝Descripción
 
